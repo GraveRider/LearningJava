@@ -7,8 +7,8 @@ public class Product {
 
     public Product(String nameAtStart, double priceAtStart, int amountAtStart) {
         name = nameAtStart;
-        price =priceAtStart;
-        amount =amountAtStart;
+        price = priceAtStart;
+        amount = amountAtStart;
     }
     public void printProduct() {
         System.out.println(name + ", price " + price + ", amount " + amount);
