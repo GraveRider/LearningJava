@@ -5,10 +5,10 @@ public class MyDate {
     private int month;
     private int year;
 
-    public MyDate(int pv, int kk, int vv) {
-        this.day = pv;
-        this.month = kk;
-        this.year = vv;
+    public MyDate(int day, int month, int year) {
+        this.day = day;
+        this.month = month;
+        this.year = year;
     }
 
     public String toString() {
@@ -31,13 +31,17 @@ public class MyDate {
 
         return false;
     }
+    public int differenceInYears(MyDate comparedDate) {
+        int date1 = (this.year * 100 + this.month) * 100 + this.day;
+        int date2 = (comparedDate.year * 100 + comparedDate.month) * 100 + comparedDate.day;
+        int difference = (date1 - date2) / 10000;
 
-    /*
-     * In assignment 92 method differneceInYears was added to MyDate 
-     * Copy the method here since it eases this assignment considerably.
-     */
-    public int differneceInYears(MyDate compared) {
-        return -99;
+        if (difference >= 0) {
+            return difference;
+        }
+        else {
+            return difference * -1;
+        }
     }
 
   
