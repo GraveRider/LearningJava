@@ -1,11 +1,14 @@
 public class Main {
     public static void main(String[] args) {
-        // Test your program here
-        String word = "labas";
+        String word = "algorithm";
 
-        Change change1 = new Change('a', 'i');
-        word = change1.change(word);
-        System.out.print(word);
+        Change change1 = new Change('a', '@');
+        Change change2 = new Change('o', '0');
+
+        Changer changer = new Changer();
+        changer.addChange(change1);
+        changer.addChange(change2);
+        System.out.println(changer.change(word));
 
     }
 }

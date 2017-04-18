@@ -1,6 +1,4 @@
-/**
- * Created by Grave on 2017.02.12.
- */
+
 public class Change {
 
     private char fromCharacter;

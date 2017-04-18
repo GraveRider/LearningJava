@@ -1,14 +1,13 @@
-/**
- * Created by Grave on 2017.02.12.
- */
+
 
 import java.util.ArrayList;
 
 public class Changer {
 
-    private ArrayList<Change> changes = new ArrayList<Change>();
+    private ArrayList<Change> changes;
 
     public Changer() {
+        changes = new ArrayList<Change>();
     }
 
     public void addChange(Change change) {
