@@ -3,12 +3,12 @@ import java.util.ArrayList;
 public class Suitcase {
 
     private int maxWeight;
-    private ArrayList<Thing> things = new ArrayList<Thing>();
+    private ArrayList<Thing> things;
     private int totalWeight;
 
     public Suitcase(int maxWeight) {
-
         this.maxWeight = maxWeight;
+        this.things = new ArrayList<Thing>();
     }
 
     public void addThing(Thing thing) {
@@ -29,15 +29,20 @@ public class Suitcase {
     }
 
     public Thing heaviestThing() {
-        Thing heaviestThing = things.get(0);
+        if (things.isEmpty()) {
+            return null;
+        }
+        else {
+            Thing heaviestThing = things.get(0);
 
-        for (Thing thing : things) {
-            if (thing.getWeight() > heaviestThing.getWeight()) {
-                heaviestThing = thing;
+            for (int i = 0; i < things.size(); i++) {
+                if (things.get(i).getWeight() > heaviestThing.getWeight()) {
+                    heaviestThing = things.get(i);
+                }
             }
             return heaviestThing;
         }
-        return null;
+
     }
 
     public String toString() {
