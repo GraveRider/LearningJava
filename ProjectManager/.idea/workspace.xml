@@ -2,23 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="549d8e9d-b3f0-4215-901f-9326e355e7ef" name="Default" comment="Project Manager with fully passed tests.">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TMCProjects/2013-OOProgrammingWithJava-PART1/week4-075.DecreasingCounter/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TMCProjects/2013-OOProgrammingWithJava-PART1/week4-078.ClockUsingCounter/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TMCProjects/2013-OOProgrammingWithJava-PART1/week4-079.NumberStatistics/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TMCProjects/2013-OOProgrammingWithJava-PART1/week5-093.PersonExtended/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TMCProjects/2013-OOProgrammingWithJava-PART1/week6-097.ElegantPrinting/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TMCProjects/2013-OOProgrammingWithJava-PART1/week6-099.ArrayToStars/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TMCProjects/2013-OOProgrammingWithJava-PART1/week6-104.Sorting/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TMCProjects/2013-OOProgrammingWithJava-PART2/week7-week7_02.CharacterStringChanger/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TMCProjects/2013-OOProgrammingWithJava-PART2/week7-week7_04.ThingSuitcaseAndContainer/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TMCProjects/2013-OOProgrammingWithJava-PART2/week8-week8_12.OnlineShop/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TMCProjects/2013-OOProgrammingWithJava-PART2/week8-week8_12.OnlineShop/src/Purchase.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TMCProjects/2013-OOProgrammingWithJava-PART2/week8-week8_12.OnlineShop/src/ShoppingBasket.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TMCProjects/2013-OOProgrammingWithJava-PART2/week8-week8_12.OnlineShop/src/Storehouse.java" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/../5modulis/1_uzduotis/.idea/vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../5modulis/1_uzduotis/src/Main.java" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/../5modulis/2 uzdavinys/.idea/vcs.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/../5modulis/2 uzdavinys/src/Main/WaterVolumeCalculator.java" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/../5modulis/2 uzdavinys/src/Testing/WaterVolumeCalculatorTest.java" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ProjectTracker.java" afterPath="$PROJECT_DIR$/src/ProjectTracker.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../TMCProjects/2013-OOProgrammingWithJava-PART1/week5-093.PersonExtended/.idea/misc.xml" afterPath="$PROJECT_DIR$/../TMCProjects/2013-OOProgrammingWithJava-PART1/week5-093.PersonExtended/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../TMCProjects/2013-OOProgrammingWithJava-PART1/week5-093.PersonExtended/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../TMCProjects/2013-OOProgrammingWithJava-PART1/week5-093.PersonExtended/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../TMCProjects/2013-OOProgrammingWithJava-PART2/week7-week7_02.CharacterStringChanger/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../TMCProjects/2013-OOProgrammingWithJava-PART2/week7-week7_02.CharacterStringChanger/.idea/workspace.xml" />
@@ -26,6 +15,9 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../TMCProjects/2013-OOProgrammingWithJava-PART2/week7-week7_04.ThingSuitcaseAndContainer/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../TMCProjects/2013-OOProgrammingWithJava-PART2/week7-week7_04.ThingSuitcaseAndContainer/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../TMCProjects/2013-OOProgrammingWithJava-PART2/week7-week7_07.Dictionary/src/TextUserInterface.java" afterPath="$PROJECT_DIR$/../TMCProjects/2013-OOProgrammingWithJava-PART2/week7-week7_07.Dictionary/src/TextUserInterface.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../TMCProjects/2013-OOProgrammingWithJava-PART2/week7-week7_08.Airport/src/Airport.java" afterPath="$PROJECT_DIR$/../TMCProjects/2013-OOProgrammingWithJava-PART2/week7-week7_08.Airport/src/Airport.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../TMCProjects/2013-OOProgrammingWithJava-PART2/week8-week8_12.OnlineShop/src/Purchase.java" afterPath="$PROJECT_DIR$/../TMCProjects/2013-OOProgrammingWithJava-PART2/week8-week8_12.OnlineShop/src/Purchase.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../TMCProjects/2013-OOProgrammingWithJava-PART2/week8-week8_12.OnlineShop/src/ShoppingBasket.java" afterPath="$PROJECT_DIR$/../TMCProjects/2013-OOProgrammingWithJava-PART2/week8-week8_12.OnlineShop/src/ShoppingBasket.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../TMCProjects/2013-OOProgrammingWithJava-PART2/week8-week8_12.OnlineShop/src/Storehouse.java" afterPath="$PROJECT_DIR$/../TMCProjects/2013-OOProgrammingWithJava-PART2/week8-week8_12.OnlineShop/src/Storehouse.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../atstumas tarp 2 tasku/src/Input.java" afterPath="$PROJECT_DIR$/../atstumas tarp 2 tasku/src/Input.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -57,10 +49,14 @@
       <file leaf-file-name="ProjectTracker.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ProjectTracker.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2356">
-              <caret line="64" column="5" lean-forward="true" selection-start-line="64" selection-start-column="5" selection-end-line="64" selection-end-column="5" />
+            <state relative-caret-position="-1069">
+              <caret line="39" column="5" lean-forward="false" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#1906#1907#0" expanded="true" />
+                <element signature="e#1948#1949#0" expanded="true" />
+                <element signature="e#2014#2015#0" expanded="true" />
+                <element signature="e#2066#2067#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -114,6 +110,7 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -184,12 +181,11 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+    <property name="settings.editor.selected.configurable" value="vcs.CVS" />
     <property name="last_opened_file_path" value="$USER_HOME$/Desktop/ProjectManager/ProjectManager/exam-v1.jar!/" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -459,12 +455,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ProjectManagerTest - 2017.05.17 at 00h 01m 07s.xml">
-      <configuration name="ProjectManagerTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ProjectManagerTest - 2017.05.17 at 00h 01m 50s.xml">
-      <configuration name="ProjectManagerTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="ProjectManagerTest - 2017.05.17 at 00h 18m 34s.xml">
       <configuration name="ProjectManagerTest" configurationId="JUnit" />
     </history-entry>
@@ -489,10 +479,16 @@
     <history-entry file="ProjectManagerTest - 2017.05.17 at 00h 22m 40s.xml">
       <configuration name="ProjectManagerTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="ProjectManagerTest - 2017.05.17 at 01h 19m 42s.xml">
+      <configuration name="ProjectManagerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ProjectManagerTest - 2017.05.17 at 01h 44m 09s.xml">
+      <configuration name="ProjectManagerTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="false" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
@@ -501,23 +497,23 @@
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33069977" sideWeight="0.50213444" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33069977" sideWeight="0.50426894" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="TMC Test Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962137" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33069977" sideWeight="0.49573106" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33069977" sideWeight="0.49786553" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.255603" sideWeight="0.5" order="6" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25827107" sideWeight="0.5" order="6" side_tool="false" content_ui="combo" />
       <window_info id="TMC Project List" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3997773" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -544,6 +540,30 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/ProjectManagerTest.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="5" column="48" lean-forward="false" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ProjectTracker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1906#1907#0" expanded="true" />
+            <element signature="e#1948#1949#0" expanded="true" />
+            <element signature="e#2014#2015#0" expanded="true" />
+            <element signature="e#2066#2067#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ProjectManagerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
           <caret line="5" column="48" lean-forward="false" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="48" />
           <folding>
@@ -558,6 +578,10 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#1906#1907#0" expanded="true" />
+            <element signature="e#1948#1949#0" expanded="true" />
+            <element signature="e#2014#2015#0" expanded="true" />
+            <element signature="e#2066#2067#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -581,10 +605,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ProjectTracker.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2356">
-          <caret line="64" column="5" lean-forward="true" selection-start-line="64" selection-start-column="5" selection-end-line="64" selection-end-column="5" />
+        <state relative-caret-position="-1069">
+          <caret line="39" column="5" lean-forward="false" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#1906#1907#0" expanded="true" />
+            <element signature="e#1948#1949#0" expanded="true" />
+            <element signature="e#2014#2015#0" expanded="true" />
+            <element signature="e#2066#2067#0" expanded="true" />
           </folding>
         </state>
       </provider>

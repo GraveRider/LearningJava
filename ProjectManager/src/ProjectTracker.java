@@ -55,8 +55,7 @@ public class ProjectTracker implements ProjectManager {
     public Issue createIssue(String s, String s1) {
         if (s.isEmpty() || s1.isEmpty()) {
             throw new IllegalArgumentException();
-        }
-        else if (s.equals(null) || s1.equals(null)) {
+        } else if (s.equals(null) || s1.equals(null)) {
             throw new NullPointerException();
         }
         issue = new Issue(getProjectById(s), s);
